@@ -1,5 +1,9 @@
 # Crossing-Game
-A simple "crossy" style game (similar to games like "Frogger") made using the PyGame library.
+A simple "crossy" style game (similar to games like "Frogger") made using the PyGame library.  
+  
+<p align="center">
+  <img src="assets/screenshot.png" height="300"/>
+</p>  
 
 - Run main.py to play.  
 - Move your character using the up and down arrow keys.  
