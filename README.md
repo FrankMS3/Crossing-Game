@@ -12,4 +12,4 @@ A simple "crossy" style game (similar to games like "Frogger") made using the Py
 
 ------------------------
   
-This was primarily made as a small project for my own practice - and as such I likely won't be expanding it further.  
+This was primarily made as a small project for my own practice - and as such, I likely won't be expanding it further.  
